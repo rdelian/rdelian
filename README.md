@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
-<h3 align="center">I am a self-taught programmer. I know I can learn everything I want and learning new stuff gives me a lot of rewards.</h3>
+<h3 align="center">I am a self-taught programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdelian&label=Profile%20views&color=0e75b6&style=flat" alt="rdelian" /> </p>
 
