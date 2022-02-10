@@ -1,5 +1,5 @@
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdelian&theme=onedark&row=1" alt="rdelian" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdelian&theme=discord&row=1&no-frame=true" alt="rdelian" /></a> </p>
 
 
 
